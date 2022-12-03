@@ -1512,6 +1512,12 @@ iframe#youtubevideo {
     opacity: 0.6;
 }
 
+.btn-skit {
+    max-width: 300px;
+    text-align: center;
+    font-size: 16px;
+}
+
 
 /* -------------FAQ-Section-Css-Start----------------- */
 
@@ -2162,6 +2168,13 @@ footer .top_footer .anim_line span:nth-child(2) {
     }
 }
 
+/* ------------Letter---------------- */
+
+.letter img {
+    max-width: 1100;
+    width: 100%;
+    border-radius: 30px;
+}
 
 /* ------------Waves-Animation---------------- */
 .waves-block {
