@@ -1427,7 +1427,7 @@ iframe#youtubevideo {
 .pricing_section .pricing_pannel .pricing_block {
     text-align: center;
     background-color: var(--bg-white);
-    min-height: 700px;
+    min-height: 600px;
     border-radius: 12px;
     padding-top: 60px;
     margin-bottom: 40px;
@@ -1491,6 +1491,25 @@ iframe#youtubevideo {
 .pricing_section .contact_text a {
     color: var(--primary-color-blue);
     text-decoration: underline;
+}
+
+.btn-free-section {
+    text-align: center;
+}
+
+.btn-free {
+    display: block;
+    color: var(--text-white);
+    background-color: var(--primary-color-blue);
+    font-size: 32px;
+    padding: 9px 40px;
+    width: 100%;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+.btn-free:hover {
+    opacity: 0.6;
 }
 
 
