@@ -2171,7 +2171,9 @@ footer .top_footer .anim_line span:nth-child(2) {
 /* ------------Letter---------------- */
 
 .letter img {
-    max-width: 1100;
+    padding: 30px;
+    background-color: #ffffff;
+    max-width: 1100px;
     width: 100%;
     border-radius: 30px;
 }
